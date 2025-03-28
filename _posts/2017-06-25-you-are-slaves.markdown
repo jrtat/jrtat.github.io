@@ -4,9 +4,8 @@ title:      "他是狗，你们便是苟奴隶(来自Blog原作者)"
 date:       2017-06-24 12:00:00
 author:     "Hux"
 header-style: text
-catalog: true
-published: true
-tags: 知乎
+tags: 
+  - 知乎
 ---
 
 > 在知乎被删帖，我理解知乎。
