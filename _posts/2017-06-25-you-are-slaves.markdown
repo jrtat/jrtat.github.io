@@ -7,7 +7,6 @@ header-style: text
 catalog: false
 published: false
 tags:
-  - 被夹
 ---
 
 > 在知乎被删帖，我理解知乎。
