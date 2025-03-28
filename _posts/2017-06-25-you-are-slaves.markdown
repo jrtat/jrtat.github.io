@@ -6,7 +6,7 @@ author:     "Hux"
 header-style: text
 catalog: false
 published: false
-tags:
+tags: 知乎
 ---
 
 > 在知乎被删帖，我理解知乎。
