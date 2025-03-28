@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何通俗地解释停机问题？"
+title: "如何通俗地解释停机问题？(来自原作者)"
 subtitle: "How to explain the Halting Problem?"
 author: "Hux"
 header-img: "img/post-bg-halting.jpg"
