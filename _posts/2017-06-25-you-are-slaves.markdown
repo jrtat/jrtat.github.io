@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "他是狗，你们便是苟奴隶"
+title:      "他是狗，你们便是苟奴隶(来自Blog原作者)"
 date:       2017-06-24 12:00:00
 author:     "Hux"
 header-style: text
