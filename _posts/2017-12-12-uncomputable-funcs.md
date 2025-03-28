@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "如何证明不可计算的函数比可计算的函数多？"
+title: "如何证明不可计算的函数比可计算的函数多？(来自原作者)"
 subtitle: "Why is there more uncomputable functions?"
 author: "Hux"
 header-img: "img/post-bg-infinity.jpg"
